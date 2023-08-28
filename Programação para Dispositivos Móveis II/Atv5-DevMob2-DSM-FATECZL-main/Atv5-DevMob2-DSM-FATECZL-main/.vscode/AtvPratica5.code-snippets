@@ -1,0 +1,32 @@
+{
+	"Componte Funcional": {
+		"scope": "javascript",
+		"prefix": "CompFunc",
+		"body": [
+			"import React from 'react'",
+			"import { View, Text} from 'react-native'",
+			"import estilo from './estilo'",
+			"",
+			"export default comp => {",
+			"    return (",
+			"",
+			"    )",
+			"}",
+		],
+		"description": "React Native Snippet VsCode"
+	},
+
+	"Componente Alfabeto": {
+		"scope": "javascript",
+		"prefix": "Alfabeto",
+		"body": [
+			"{",
+			" minuscula: ",
+			" maiuscula: ",
+			" pronuncia: ",
+			"}"
+		],
+		"description": "Alfabeto"
+	},
+
+}
